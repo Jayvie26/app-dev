@@ -1,2 +1,18 @@
-# app-dev
-My first repository
+# Descendants of the Sun
+# Summary of the Story
+This drama tells of the love story that develops between a surgeon and a special forces officer. Some relationships are fated, despite the challenges of time and place.
+## Released
+2016-02-24
+## Genre
+ Korean drama, Drama, Romance, Action, Comedy, War, Melodrama, Adventure
+## Main Characters and their Roles
+**Song Joong-ki as Captain Yoo Si-jin(a.k.a. Big Boss)** -The captain and leader of Alpha Team, a fictional elite special forces team of the 707th Special Mission Battalion in South Korea. He followed in the footsteps of his father, a retired sergeant major, into the military and graduated from the Korea Military Academy at the top of his class. Si-jin cares little for the politics of war and believes in protecting and defending those who need help, his country and his men's honour, even if it means having to question his superiors' orders. His light-hearted approach to life and witty sense of humour make him popular with his team and subordinates but Mo-yeon quickly realizes that it is his way of deflecting her questions about his job and coping with the pain of losing comrades. At the end of the series, he is promoted to major. He falls in love with Mo-yeon at first sight but gets rejected by her three times.
+
+**Song Hye-kyo as Doctor Kang Mo-yeon(a.k.a. Beauty and Pretty one)** -A cardiothoracic surgeon who works at Haesung Hospital. She is a beautiful, strong, and assertive woman who believes that competence should outweigh connections but must confront the harsh reality that she cannot get anywhere without connections. She stands firmly by her principles and doesn't fall prey easily to her emotions, though she is not afraid to admit her mistakes. Her first meeting with Si-jin begins awkwardly when she mistakes him for a criminal boss and becomes attracted to him. Although the feeling is mutual, she rejects him three times as she finds herself struggling to accept his occupation as a soldier in the special forces and what it entails.
+
+**Jin Goo as master sergeant Seo Dae-young (a.k.a. Wolf)** -As the most senior non-commissioned officer in Alpha Team and Si-jin's right-hand man and best friend, Dae-young is a career soldier who sticks to his principles and is extremely loyal to his commanding officer, Si-jin and comrades. He is notorious among recruits and Academy cadets as a no-nonsense and strict instructor (he was also Si-jin's former drill instructor at the Academy). His level head and vast experience often come in handy in times of crisis during deployments. He is the straight man to the happy-go-lucky Si-jin and possesses a sharp deadpan sense of humor. For much of the series, he struggles with expressing his true feelings for Myung-ju due to the objection of her father who wanted Si-jin as his son-in-law.
+
+**Kim Ji-won as First Lieutenant Yoon Myung-ju -An** -army doctor who is also the daughter of Lieutenant General Yoon, commander of the South Korean Special Forces Brigade. She followed her father's footsteps and graduates from the Korea Military Academy, where she was a junior of Si-jin, before doing an internship at Haesung Hospital. During her first assignment, where she was the medical officer on duty during a training exercise, she first meets Dae-young and is instantly attracted to him. Their relationship is well-known among the other doctors at Haesung Hospital and fellow soldiers but is considered a taboo as she is an officer and he is a non-commissioned officer. However, it does not deter her from pursuing Dae-young, much to the Lt. Gen's chagrin.
+
+### Watch "Descendants of the Sun"
+Link [Descendants of the Sun](https://www.netflix.com/ph-en/title/80123798)
